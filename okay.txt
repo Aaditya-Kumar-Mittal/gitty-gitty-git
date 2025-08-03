@@ -1,1 +1,1 @@
-Changes by Adi2
+This is an example to make a merge request.
